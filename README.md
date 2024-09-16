@@ -34,7 +34,11 @@ I explored multiple models using transfer learning techniques like VGG16, DenseN
 4. Evaluation
 After training, the models were evaluated, and the performance was analyzed based on accuracy. Misclassified samples were also examined to identify potential patterns.
 
-5. Visualization
+
+![image](https://github.com/user-attachments/assets/e8ea1cb3-1fc3-454d-917b-8c120e0856b1)
+
+
+6. Visualization
 A graph was plotted comparing the accuracy of the different transfer learning models.
 
 
