@@ -11,6 +11,9 @@ Images per Class: 80 images.
 Total Images: 560.
 Image Size: Resized to 224x224 pixels.
 
+![image](https://github.com/user-attachments/assets/2bb4df34-dcc7-4d67-855a-d5739c54da76)
+
+
 Steps Followed:
 1. Loading the Dataset
 The dataset was loaded from Google Drive into Google Colab for training. Data was divided into training and validation sets.
