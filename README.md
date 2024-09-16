@@ -13,6 +13,13 @@ Image Size: Resized to 224x224 pixels.
 
 ![image](https://github.com/user-attachments/assets/2bb4df34-dcc7-4d67-855a-d5739c54da76)
 
+![image](https://github.com/user-attachments/assets/6c84c6ab-f884-4c25-9e39-38016a8952b0)
+
+
+![image](https://github.com/user-attachments/assets/ea241839-c389-4f58-bc64-1ede69764f8f)
+
+
+
 
 Steps Followed:
 1. Loading the Dataset
